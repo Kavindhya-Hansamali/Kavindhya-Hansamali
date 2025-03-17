@@ -42,8 +42,8 @@
 <br/>
 <p align="left">
   <a href="https://github.com/Kavindhya-Hansamali/Kavindhya-Hansamali/edit/main/README.md">
-  <img width="29.5%" src="https://github-readme-stats.vercel.app/api?username=Kavindhya-Hansamali&show_icons=true&theme=gruvbox&hide_border=true" />                 
-    <img width="29.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kavindhya-Hansamali&theme=gruvbox&hide_border=true" />
+  <img width="45.5%" src="https://github-readme-stats.vercel.app/api?username=Kavindhya-Hansamali&show_icons=true&theme=gruvbox&hide_border=true" />                 
+    <img width="45.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kavindhya-Hansamali&theme=gruvbox&hide_border=true" />
   </a>
 </p>
 <br>
@@ -53,7 +53,7 @@
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
 <p align="left">
   <a href="https://github.com/Kavindhya-Hansamali/Kavindhya-Hansamali/edit/main/README.md">
-  <img width="25.5%" src="https://github-readme-stats.vercel.app/api?username=Kavindhya-Hansamali&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight"/>
+  <img width="30.5%" src="https://github-readme-stats.vercel.app/api?username=Kavindhya-Hansamali&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight"/>
     <img width="49.5%" src="https://github-readme-activity-graph.vercel.app/graph?username=Kavindhya-Hansamali&theme=react-dark&hide_border=true&area=true" />
   </a>
 </p>
