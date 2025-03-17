@@ -1,5 +1,4 @@
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>
-## <picture><img src = "https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" align="right" width = 50px></picture>
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture><img src = "https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" align="right" width = 50px></picture>
 
 <h1 align="center">welcome to my GitHub <a href="https://tonynguyenit18.github.io/">profile <a> <img width="30" src="https://raw.githubusercontent.com/tonynguyenit18/tonynguyenit18/main/static/happy-face.gif"></h1>
 
