@@ -3,7 +3,7 @@
 <h1 align="center">welcome to my GitHub <a href="https://tonynguyenit18.github.io/">profile <a> <img width="30" src="https://raw.githubusercontent.com/tonynguyenit18/tonynguyenit18/main/static/happy-face.gif"></h1>
 
 <h3 align = "center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=75&duration=1400&pause=500&color=66FFFF&background=000000EE&center=true&multiline=true&width=1920&height=384&lines=Hello+there+!;+I'm+Kavindhya..&hearts;" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=75&duration=800&pause=300&color=66FFFF&background=000000EE&center=true&multiline=true&width=1920&height=200&lines=Hello+there+!;+I'm+Kavindhya..&hearts;" alt="Typing SVG" /></a>
 </h3>
 <p align="center">
 <br>
@@ -42,11 +42,11 @@
 | ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=Kavindhya-Hansamali&show_icons=true&theme=tokyonight) | ![Kavindhya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kavindhya-Hansamali&theme=tokyonight) |
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
-| ![Github Stars](https://github-readme-stats.vercel.app/api?username=Kavindhya-Hansamali&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+| ![Github Stars](https://github-readme-stats.vercel.app/api?username=Kavindhya-Hansamali&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=Kavindhya-Hansamali&theme=react-dark&hide_border=true&area=true)
 
 ---
 
-<h3 align="left">☎️Connect with me:</h3>
+<h3 align="left"><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">Connect with me:</h3>
 <h2 align="center">you can reach me by:</h2>
     <p align="center">
       <br/>
@@ -62,7 +62,10 @@
     </p>
   
 ---
+-----
+Credits: [Kavindhya_Hansamali](https://github.com/Kavindhya-Hansamali/Kavindhya-Hansamali/edit/main/README.md)
 
+Last Edited on: 17/03/2025
 #
 
 
