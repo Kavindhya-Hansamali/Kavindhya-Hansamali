@@ -1,9 +1,12 @@
-<img align="center" alt="GIF" height="100px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>
+## <picture><img src = "https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" align="right" width = 50px></picture>
 
-<h2 align = "center">
+<h1 align="center">welcome to my GitHub <a href="https://tonynguyenit18.github.io/">profile <a> <img width="30" src="https://raw.githubusercontent.com/tonynguyenit18/tonynguyenit18/main/static/happy-face.gif"></h1>
+
+<h3 align = "center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=75&duration=1400&pause=500&color=FF72FF&background=000000EE&center=true&multiline=true&width=1920&height=384&lines=Hello+there+!;+I'm+Kavindhya" alt="Typing SVG" /></a>
-</h2>
-<h1 align="center">welcome,<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> my GitHub <a href="https://tonynguyenit18.github.io/">profile<a> <img width="80" src="https://raw.githubusercontent.com/tonynguyenit18/tonynguyenit18/main/static/happy-face.gif"></h1>
+</h3>
+
 <p align="center">
 <br>
 <p><img src="https://raw.githubusercontent.com/vibrantfix/vibrantfix/main/assets/gif/hello.gif" width="10px">
