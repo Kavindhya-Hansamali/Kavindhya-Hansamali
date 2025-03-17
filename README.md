@@ -3,7 +3,7 @@
 <h1 align="center">welcome to my GitHub <a href="https://tonynguyenit18.github.io/">profile <a> <img width="30" src="https://raw.githubusercontent.com/tonynguyenit18/tonynguyenit18/main/static/happy-face.gif"></h1>
 
 <h3 align = "center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=75&duration=1400&pause=500&color=FF72FF&background=000000EE&center=true&multiline=true&width=1920&height=384&lines=Hello+there+!;+I'm+Kavindhya" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=75&duration=1400&pause=500&color=66FFFF&background=000000EE&center=true&multiline=true&width=1920&height=384&lines=Hello+there+!;+I'm+Kavindhya..&hearts;" alt="Typing SVG" /></a>
 </h3>
 <p align="center">
 <br>
@@ -62,4 +62,15 @@
     </p>
   
 ---
+
+#
+
+
+<p align="center">
+  <img height="150" width="150" src="https://github.com/GovindSingh9447/GovindSingh9447/blob/main/WEBP/left.webp">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Govindsingh9447&theme=dark&hide_border=true"/>
+  <img height="150" width="150" src="https://github.com/GovindSingh9447/GovindSingh9447/blob/main/WEBP/right.webp">
+</p>
+
+#
 
