@@ -7,7 +7,7 @@
 </h3>
 <p align="center">
 <br>
-<p><img src="https://raw.githubusercontent.com/vibrantfix/vibrantfix/main/assets/gif/hello.gif" width="5px">
+<p><img src="https://raw.githubusercontent.com/vibrantfix/vibrantfix/main/assets/gif/hello.gif" width="4px">  
   
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">Talking about Personal Stuffs:
 🌐 I am Kavindya Hansamali. I am excited to embark on a journey towards a BSc (Hons) in Industrial Information Technology to further enhance my skills and knowledge, discover new knowledge in the technology industry and become a fully-fledged entrepreneur🎓 . I am a passionate learner who is always willing to learn and work with technologies. I love exploring new technologies and solving real-life problems 🚀.
@@ -19,7 +19,7 @@
 </p>
 <div align="center">
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/codediaz/codediaz/output/github-contribution-grid-snake.svg" width="800" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/codediaz/codediaz/output/github-contribution-grid-snake.svg" width="600" />
   <br/>
 </div>
 
