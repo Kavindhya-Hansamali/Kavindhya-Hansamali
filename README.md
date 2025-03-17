@@ -1,30 +1,24 @@
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<img align="center" alt="GIF" height="100px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-<div align="right">
-<a style="text-decoration: none" target="_blank"href="https://github.com/Kavindhya-Hansamali/Kavindhya-Hansamali/edit/main/README.md">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=codediaz.codediaz&left_color=gray&right_color=blue&left_text=Coders%20visitors">
-</a>
-<a style="text-decoration: none" target="_blank" href="https://www.linkedin.com/in/kavindhya-hansamali-1465992ba/" >
-<img width="70"src="https://img.shields.io/badge/-Connect-blue?style=flat&logo=Linkedin&logoColor=white">
-</a>
-</div>
-
+<h2 align = "center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=75&duration=1400&pause=500&color=FF72FF&background=000000EE&center=true&multiline=true&width=1920&height=384&lines=Hello+there+!;+I'm+Kavindhya" alt="Typing SVG" /></a>
+</h2>
+<h1 align="center">welcome,<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> my GitHub <a href="https://tonynguyenit18.github.io/">profile<a> <img width="80" src="https://raw.githubusercontent.com/tonynguyenit18/tonynguyenit18/main/static/happy-face.gif"></h1>
+<p align="center">
 <br>
+<p><img src="https://raw.githubusercontent.com/vibrantfix/vibrantfix/main/assets/gif/hello.gif" width="10px">
+  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">Talking about Personal Stuffs:
+🌐 I am Kavindya Hansamali. I am excited to embark on a journey towards a BSc (Hons) in Industrial Information Technology to further enhance my skills and knowledge, discover new knowledge in the technology industry and become a fully-fledged entrepreneur🎓 . I am a passionate learner who is always willing to learn and work with technologies. I love exploring new technologies and solving real-life problems 🚀.
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40=true&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=Hi+There!+👋;+I'm+Kavindhya+Hansamali!;" />
-
-
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=kavindhyahansamali&label=Profile%20views&color=0e75b6&style=flat" alt="kavindhyahansamali" /> </p>
-
----
-
-<h2>📖 | About me</h2> 
-🌐 I'm Kavindya Hansamali. In order to further improve my skills and knowledge, I am happy to embark on a journey towards the BSc (Hons) in Industrial Information Technology with the objective of discovering new knowledge in the technology industry and becoming a fully skilled entrepreneur
-
+- 🎓 I am an **undergraduate student**.
+- 💻 Major is **Computer Science and Technology**.
+- 🌱 I'm currently learning **Java, PHP, C++, MYSQL**. 
+- 🤔 My hobbies are **listen music 🎵 and play games🎮**.
+</p>
 <div align="center">
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/codediaz/codediaz/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/codediaz/codediaz/output/github-contribution-grid-snake.svg" width="800" />
   <br/>
 </div>
 
