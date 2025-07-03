@@ -2,13 +2,7 @@
 
 <h1 align="center">welcome to my GitHub <a href="https://tonynguyenit18.github.io/">profile <a> <img width="30" src="https://raw.githubusercontent.com/tonynguyenit18/tonynguyenit18/main/static/happy-face.gif"></h1>
 
-<h3 align = "center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=75&duration=800&pause=300&color=66FFFF&background=000000EE&center=true&multiline=true&width=1920&height=200&lines=Hello+there+!;+I'm+Kavindhya..&hearts;" alt="Typing SVG" /></a>
-</h3>
-<p align="center">
-<br>
-<p><img src="https://raw.githubusercontent.com/vibrantfix/vibrantfix/main/assets/gif/hello.gif" width="4px">  
-  
+
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">Talking about Personal Stuffs:
 🌐 I am Kavindya Hansamali. I am excited to embark on a journey towards a BSc (Hons) in Industrial Information Technology to further enhance my skills and knowledge, discover new knowledge in the technology industry and become a fully-fledged entrepreneur🎓 . I am a passionate learner who is always willing to learn and work with technologies. I love exploring new technologies and solving real-life problems 🚀.
 
